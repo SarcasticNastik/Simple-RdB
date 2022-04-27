@@ -1,0 +1,6 @@
+*.o
+.vscode/
+.idea/
+log
+server
+temp/
